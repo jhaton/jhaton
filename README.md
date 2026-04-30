@@ -1,11 +1,19 @@
 # Jason Hatton
 
-I host most public code on SourceHut.
+Senior Data Engineer focused on high-throughput systems and pragmatic tooling.
 
-Canonical code: https://git.sr.ht/~jhaton  
-Patches: https://lists.sr.ht/~jhaton/dev  
-Email: jason@hatton.io
+## Code
 
-Selected projects:
-- [foo](https://git.sr.ht/~jhaton/foo) — short description
-- [bar](https://git.sr.ht/~jhaton/bar) — short description
+Most of my personal/open-source work lives on SourceHut.
+
+https://git.sr.ht/~jhaton
+
+## Contributing
+
+For my personal projects, I use an email-based workflow.
+
+Send patches via `git send-email` to:
+https://lists.sr.ht/~jhaton/dev
+
+New to this workflow:
+https://git-send-email.io/
