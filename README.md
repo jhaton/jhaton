@@ -1,8 +1,4 @@
-# Jason Hatton
-
-Senior Data Engineer focused on high-throughput systems and pragmatic tooling.
-
-## Code
+]## Code
 
 Most of my personal/open-source work lives on SourceHut.
 
