@@ -1,4 +1,4 @@
-]## Code
+## Code
 
 Most of my personal/open-source work lives on SourceHut.
 
