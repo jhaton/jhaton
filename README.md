@@ -14,6 +14,6 @@ https://git-send-email.io/
 Send patches via `git send-email` to:
 `~jhaton/dev@lists.sr.ht` with `Subject: PATCH repoNameHere`
 
-Or use the Web UI here: [https://lists.sr.ht/~jhaton/dev]
+Or use the Web UI here: https://lists.sr.ht/~jhaton/dev
 
 
