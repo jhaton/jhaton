@@ -6,10 +6,14 @@ https://git.sr.ht/~jhaton
 
 ## Contributing
 
-For my personal projects, I use an email-based workflow.
+SourceHut uses `git send-email` instead of PRs.
+
+Setup:
+https://git-send-email.io/
 
 Send patches via `git send-email` to:
-https://lists.sr.ht/~jhaton/dev
+`~jhaton/dev@lists.sr.ht` with `Subject: PATCH repoNameHere`
 
-How to send patches:
-https://git-send-email.io/
+Or use the Web UI here: [https://lists.sr.ht/~jhaton/dev]
+
+
