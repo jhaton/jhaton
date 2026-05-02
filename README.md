@@ -11,5 +11,5 @@ For my personal projects, I use an email-based workflow.
 Send patches via `git send-email` to:
 https://lists.sr.ht/~jhaton/dev
 
-New to this workflow:
+How to send patches:
 https://git-send-email.io/
