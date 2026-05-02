@@ -1,8 +1,6 @@
 ## Code
 
-Most of my personal/open-source work lives on SourceHut.
-
-https://git.sr.ht/~jhaton
+Most of my personal/open-source work lives on SourceHut: https://git.sr.ht/~jhaton
 
 ## Contributing
 
